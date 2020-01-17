@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Se crea el canal, se determina el estándar a utilizar y el idioma del documento-->
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es-es">
+	<title type="text">Mi Canal Atom</title>
+	<id>http://www.mipagina.es</id>
+	<link rel="self" type="application/atom+xml" href="http://index.html/feed/canal_atom.atom" />
+	<link rel="alternate" type="text/html" href="http://Escritorio/mis-paginas-web/Lopez_Coronel_David_LMSGI_Tarea03/feed/Canal_Atom.atom">
+	<updated>2019-12-25T19:20:46Z</updated>
+	<author>
+             <name>David Lopez Coronel</name>
+             <email>deivi16@gmail.com</email>
+    </author>
+
+<!--Se definen las secciones que forman el canal-->
+	<entry>
+		<title>El tiempo en Frankfurt</title>
+		<link rel="alternate" type="text/html" href="https://www.tutiempo.net/frankfurt-am-main.html" />
+		<updated>2019-12-25T19:20:56Z</updated>
+		<id>https://www.tutiempo.net/frankfurt-am-main.html</id>
+		<author>
+			<name>Nombre y Apellidos</name>
+            <email>nombre@dominio.com</email>
+		</author>
+		<summary>Meteorología en Frankfurt</summary>
+	</entry>
+	<entry>
+		<title>Noticias locales de interés, en Frankfurt</title>
+		<link rel="alternate" type="text/html" href="https://www.europapress.es/temas/alemania/" />
+		<updated>2019-12-25T19:20:56Z</updated>
+		<id>https://www.europapress.es/temas/alemania/</id>
+		<author>
+			<name>Nombre y Apellidos</name>
+            <email>nombre@dominio.com</email>
+		</author>
+		<summary>Aqui podras encontrar noticias con un enfoque mas concreto local y nacional, sin dejar de lado las noticias Internacionales más destacadas.</summary>
+	</entry>
+    <entry>
+		<title>En 2020 se impondran los coches hibridos</title>
+		<link rel="alternate" type="text/html" href="https://www.hibridosyelectricos.com/articulo/actualidad/2020-concesionarios-preferiran-vender-coche-electrico-antes-combustion/20191223182008032268.html" />
+		<updated>2019-12-25T19:20:56Z</updated>
+		<id>https://www.hibridosyelectricos.com/articulo/actualidad/2020-concesionarios-preferiran-vender-coche-electrico-antes-combustion/20191223182008032268.html</id>
+		<author>
+			<name>Nombre y Apellidos</name>
+            <email>nombre@dominio.com</email>
+		</author>
+		<summary>En 2020, los concesionarios preferirán vender un coche eléctrico antes que uno de combustión.</summary>
+	</entry>
+    <entry>
+		<title>Comparativa coches eléctricos 2020: guía de compra</title>
+		<link rel="alternate" type="text/html" href="https://www.quecochemecompro.com/blog/comparativa-coches-electricos-guia-de-compra/" />
+		<updated>2019-12-25T19:20:56Z</updated>
+		<id>https://www.quecochemecompro.com/blog/comparativa-coches-electricos-guia-de-compra/</id>
+		<author>
+			<name>Nombre y Apellidos</name>
+            <email>nombre@dominio.com</email>
+		</author>
+		<summary>En esta comparativa de coches eléctricos vamos a hacer un repaso a todos los modelos que existen actualmente en el mercado, señalando las principales ventajas e inconvenientes de cada uno y poniendo el acento en una posible decisión de compra.</summary>
+	</entry>
+</feed>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<!-- Se define el canal -->
+   <channel>
+         <title>Canal RSS</title>
+         <link>http://Lopez_Coronel_David_LMSGI_Tarea03/index.html</link>
+         <description>Canal RSS Frankfurt</description>
+         <language>es</language>
+<!-- Se definen los distintos items del canal-->
+	 <item>
+             <title>El tiempo en Frankfurt</title>
+             <link>https://www.tutiempo.net/frankfurt-am-main.html</link>
+             <description>Meteorología en Frankfurt</description>
+         </item>
+	 <item>
+             <title>Noticias locales de interés, en Frankfurt</title>
+             <link>https://www.europapress.es/temas/alemania/</link>
+             <description>Aqui podras encontrar noticias con un enfoque mas concreto local y nacional, sin dejar de lado las noticias Internacionales más destacadas. </description>
+        </item>
+        <item>
+             <title>En 2020 se impondran los coches hibridos</title>
+             <link>https://www.hibridosyelectricos.com/articulo/actualidad/2020-concesionarios-preferiran-vender-coche-electrico-antes-combustion/20191223182008032268.html</link>
+             <description>En 2020, los concesionarios preferirán vender un coche eléctrico antes que uno de combustión.</description>
+        </item>
+        <item>
+             <title>Comparativa coches eléctricos 2020: guía de compra</title>
+             <link>https://www.quecochemecompro.com/blog/comparativa-coches-electricos-guia-de-compra/</link>
+             <description>En esta comparativa de coches eléctricos vamos a hacer un repaso a todos los modelos que existen actualmente en el mercado, señalando las principales ventajas e inconvenientes de cada uno y poniendo el acento en una posible decisión de compra.</description>
+        </item>
+    </channel>
+</rss>
